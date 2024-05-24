@@ -71,19 +71,19 @@ Takes the 3D (river) before and after the correction and displays one (river) hy
 
 
 ## 8. Relevant External Sources
-Get the raster value at a specific pair of coordinates
-https://stackoverflow.com/questions/33596416/sample-raster-cell-value-at-coordinates
-Make a flat list out of a list of lists
-https://stackoverflow.com/questions/952914/how-to-make-a-flat-list-out-of-a-list-of-lists
-Format a list to only two decimals
+Get the raster value at a specific pair of coordinates<br />
+https://stackoverflow.com/questions/33596416/sample-raster-cell-value-at-coordinates<br />
+Make a flat list out of a list of lists<br />
+https://stackoverflow.com/questions/952914/how-to-make-a-flat-list-out-of-a-list-of-lists<br />
+Format a list to only two decimals<br />
 https://stackoverflow.com/questions/5326112/how-to-round-each-item-in-a-list-of-floats-to-2-decimal-places
 
 
 ## 9. References
-PyShp (pyshp 1.2.3 and pyshp 2.2.0)
-https://pypi.org/project/pyshp/1.2.3/
+PyShp (pyshp 1.2.3 and pyshp 2.2.0)<br />
+https://pypi.org/project/pyshp/1.2.3/<br />
 https://pypi.org/project/pyshp/
 
-GeospatialPython.com
-Blog of Joel Lawhead (developer of PyShp package)
+GeospatialPython.com<br />
+Blog of Joel Lawhead<br />
 http://geospatialpython.com/2011_03_01_archive.html
